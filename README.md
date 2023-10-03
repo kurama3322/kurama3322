@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nicholas</h1>
 <h3 align="center">Senior Software Engineer</h3>
 
-#### Welcome to my GitHub! Here, I explore the endless frontier of coding, levering the flexibility of this space to learn and grow as a Software Engineer. This platform is my personal sandbox where experimentations have no bounds, and new ideas come to life in the form of code.
+Welcome to my GitHub! Here, I explore the endless frontier of coding, levering the flexibility of this space to learn and grow as a Software Engineer. This platform is my personal sandbox where experimentations have no bounds, and new ideas come to life in the form of code.
 
-#### In the interest of continuous learning and development, I maintain my repositories as private. I believe this fosters an environment free of judgement that encourages creativity and innovation.
+In the interest of continuous learning and development, I maintain my repositories as private. I believe this fosters an environment free of judgement that encourages creativity and innovation.
 
-#### Thank you for stopping by!
+Thank you for stopping by!
 
-### While a tech stack does not define a Software Engineer, these are the technologies I am most proficient in and have found decent images of:
+While a tech stack does not define a Software Engineer, these are the technologies I am most proficient in and have found decent images of:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
