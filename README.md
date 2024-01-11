@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nicholas</h1>
-<h3 align="center">Senior Software Engineer</h3>
 
 Welcome to my GitHub! Here, I explore the endless frontier of coding, levering the flexibility of this space to learn and grow as a Software Engineer. This platform is my personal sandbox where experimentations have no bounds, and new ideas come to life in the form of code.
 
@@ -15,6 +14,7 @@ While a tech stack does not define a Software Engineer, these are the technologi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
