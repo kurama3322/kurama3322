@@ -1,4 +1,4 @@
-<h1 align="center">hi, I'm Nicholas</h1>
+hi, i'm Nicholas
 
 i keep my repositories private
 
